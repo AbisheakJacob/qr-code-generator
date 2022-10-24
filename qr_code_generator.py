@@ -1,4 +1,3 @@
-# import module
 import pyqrcode
 
 print("Welcome to QR Code Generator")
